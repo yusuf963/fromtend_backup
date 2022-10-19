@@ -1,0 +1,10 @@
+order the list from the fastest to the slowest
+
+1. RAM access (DDR DIMM)
+2. Network ping from London to New York
+3. SSD I/O
+4. One CPU cycle
+5. Network round trip within the same datacenter
+6. HDD seek time
+
+cpu, ram, ssd, hdd, London to New York, Network round trip
