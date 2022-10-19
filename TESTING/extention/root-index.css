@@ -1,0 +1,12 @@
+:root {
+  --blue: #1e90ff;
+  --white: #ffffff;
+  --dark-grey: #334155;
+  --yellow: #fcd34d;
+  --orange-yellow: #FF9900;
+  --red: #bb1919;
+  --primary: #0000;
+  --green: #84cc16;
+  --default-size: 1rem;
+  --default-space: 10px;
+}
