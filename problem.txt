@@ -1,0 +1,21 @@
+
+//https://gist.githubusercontent.com/mwz/c072cba40e88da935bf6eeb1c1d8b72e/raw/90f8bf8fc827c50a32ce14c35401d813e648c30d/lorem%2520ipsum
+
+Facts and Definitions
+- Everything is lowercase.
+- There are only letters, full stops (.), and single whitespace characters.
+- A word is defined as a sequence of letters delimited by either a whitespace or a full stop . character.
+- A full stop character is not considered a word. A full stop is never preceded or followed by whitespace.
+- Any two words are separated either by a single whitespace character (dolor sit), or by a full stop with no spaces (elit.sed)
+- A sentence is defined as a sequence of words delimited by a full stop . character.
+
+
+Questions
+
+- How many words are there in the text?
+- How many sentences are there in the text?
+- What is the length of the longest word?
+- Which six words occur the most in the text?
+- What percentage of the words, excluding duplicates, only occur once?
+- What is the average number of words per sentence?
+- Which three two-word phrases occur the most in the text?
