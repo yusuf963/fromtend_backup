@@ -1,0 +1,42 @@
+.sanckbar-container{
+	/*width:  300px;*/
+	margin: 20px auto;
+	align-items: center;
+	text-align: center;
+	border-radius: 5px;
+	color:  var(--white);
+	font-weight: 600;
+	 font-size: 1.3rem;
+}
+
+.info{
+	background-color: var(--blue);
+	padding: 10px;
+}
+.warning{
+	background-color: var(--yellow);
+}
+.success{
+	background-color: var(--green);
+}
+.error{
+	background-color: var(--red);
+}
+/*
+minmax(0,1fr)
+
+
+Partylink{
+  padding: 1rem;
+  list-style-type: none;
+}
+
+Snackbar-container{
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+Message{
+  padding: 1rem
+}
+*/
